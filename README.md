@@ -3,7 +3,7 @@
   <tr>
     <td align="center">
       <img src="1.png" width="400"/><br>
-      <b>Output ketika salah satu atau semua input kosong</b>
+      <b>Output ketika salah satu / semua input kosong</b>
     </td>
     <td align="center">
       <img src="2.png" width="400"/><br>
