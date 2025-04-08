@@ -2,32 +2,32 @@
 <table align="center">
   <tr>
     <td align="center">
-      <img src="img1.png" width="200"/><br>
-      <b>Judul Gambar 1</b>
+      <img src="1.png" width="200"/><br>
+      <b>Output ketika salah satu atau semua input kosong</b>
     </td>
     <td align="center">
-      <img src="img2.png" width="200"/><br>
-      <b>Judul Gambar 2</b>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="img3.png" width="200"/><br>
-      <b>Judul Gambar 3</b>
-    </td>
-    <td align="center">
-      <img src="img4.png" width="200"/><br>
-      <b>Judul Gambar 4</b>
+      <img src="g2.png" width="200"/><br>
+      <b>Output ketika nama tidak valid</b>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="img5.png" width="200"/><br>
-      <b>Judul Gambar 5</b>
+      <img src="3.png" width="200"/><br>
+      <b>Output ketka email tidak valid</b>
     </td>
     <td align="center">
-      <img src="img6.png" width="200"/><br>
-      <b>Judul Gambar 6</b>
+      <img src="4.png" width="200"/><br>
+      <b>Output ketka umur tidak valid </b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="5.png" width="200"/><br>
+      <b>Output ketka nomor hp tidak valid </b>
+    </td>
+    <td align="center">
+      <img src="6.png" width="200"/><br>
+      <b>Output ketka data tersimpan</b>
     </td>
   </tr>
 </table>
