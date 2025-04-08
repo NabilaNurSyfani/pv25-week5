@@ -2,7 +2,7 @@
 <table align="center">
   <tr>
     <td align="center">
-      <img src="1.png" width="200"/><br>
+      <img src="1.png" width="300"/><br>
       <b>Output ketika salah satu atau semua input kosong</b>
     </td>
     <td align="center">
