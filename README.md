@@ -13,21 +13,21 @@
   <tr>
     <td align="center">
       <img src="3.png" width="400"/><br>
-      <b>Output ketka email tidak valid</b>
+      <b>Output ketika email tidak valid</b>
     </td>
     <td align="center">
       <img src="4.png" width="400"/><br>
-      <b>Output ketka umur tidak valid </b>
+      <b>Output ketika usia tidak valid </b>
     </td>
   </tr>
   <tr>
     <td align="center">
       <img src="5.png" width="400"/><br>
-      <b>Output ketka nomor hp tidak valid </b>
+      <b>Output ketika nomor hp tidak valid </b>
     </td>
     <td align="center">
       <img src="6.png" width="400"/><br>
-      <b>Output ketka data tersimpan</b>
+      <b>Output ketika data tersimpan</b>
     </td>
   </tr>
 </table>
