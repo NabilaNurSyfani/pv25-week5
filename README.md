@@ -6,7 +6,7 @@
       <b>Output ketika salah satu atau semua input kosong</b>
     </td>
     <td align="center">
-      <img src="g2.png" width="200"/><br>
+      <img src="2.png" width="200"/><br>
       <b>Output ketika nama tidak valid</b>
     </td>
   </tr>
