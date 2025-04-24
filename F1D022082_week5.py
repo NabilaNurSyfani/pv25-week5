@@ -10,6 +10,7 @@
 
 from PyQt5 import QtCore, QtGui, QtWidgets
 import re
+import sys
 
 class Ui_MainWindow(object):
     def setupUi(self, MainWindow):
@@ -171,7 +172,6 @@ class Ui_MainWindow(object):
         self.comboBox_2.setCurrentIndex(0)
 
 if __name__ == "__main__":
-    import sys
     app = QtWidgets.QApplication(sys.argv)
     MainWindow = QtWidgets.QMainWindow()
     ui = Ui_MainWindow()
